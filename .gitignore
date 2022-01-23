@@ -1,0 +1,5 @@
+slide/*
+!slide/*.tex
+!slide/*.pdf
+!slide/*.png
+!slide/*.jpg
